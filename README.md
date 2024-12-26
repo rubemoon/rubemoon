@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rubemoon/rubemoon/refs/heads/master/RUBENS%20BANNER%20.png" width="100%">
+<img src="https://raw.githubusercontent.com/rubemoon/rubemoon/refs/heads/master/rubens_banner.png" width="100%">
 
 <div align="center">
   <h3>Hello There!<br />My name is Rubens Jean Simon<br />Welcome to my profile!</h3>
