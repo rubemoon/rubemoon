@@ -1,52 +1,194 @@
 <img src="https://raw.githubusercontent.com/rubemoon/rubemoon/refs/heads/master/rubens_banner_pro.png" width="100%">
 
 <div align="center">
-  <h3>Hello There!<br />My name is Rubens Jean Simon<br />Welcome to my profile!</h3>
-  
+  <h3>
+    Hi there! 👋<br />
+    I'm Rubens Jean Simon<br />
+    AWS Student Builder Group Leader • Full-Stack Developer • Computer Science Student
+  </h3>
+
   <a href="https://youtube.com/@kozenetpro?si=bUQcC49hxrvI1APa">
     <img src="https://img.shields.io/badge/YouTube-f60456?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
-  
+
   <a href="https://www.linkedin.com/in/rubens-jean-simon/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
-  
+
+<br><br>
+
+  <a href="https://github.com/rubemoon?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/rubemoon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=rubemoon&style=for-the-badge&label=Profile+Views">
+
+<br><br>
+
+  <img src="https://img.shields.io/badge/AWS-Student_Builder_Leader-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-Developer-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-Full_Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Open_Source-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Kozenet-Pro-6F42C1?style=for-the-badge">
+
   <hr width="50%">
 </div>
 
-<p style="font-size: 16px; font-family: Arial, sans-serif;">
-  My name is Rubens Jean Simon and I am a software developer. I make Shopify redesigns, Wix, Squarespace, and portfolio sites, as well as eCommerce sites. I teach languages like English, Creole, French, and basic Portuguese. My YouTube channel is <a href="https://youtube.com/@kozenetpro?si=bUQcC49hxrvI1APa/" style="color: #FF0000; text-decoration: none;">Kozenet Pro</a>.
+<p align="center">
+Computer Science student at UFFS and Full-Stack Developer passionate about building SaaS products, cloud-native applications, educational platforms, and technology communities
+</p>
+
+<p align="center">
+Founder of <strong>Kozenet Pro</strong>, where I create digital solutions, educational content, cloud projects, and technology initiatives that help students and businesses grow
 </p>
 
 <div align="center">
   <hr width="50%">
 </div>
 
-<h3>:hammer_and_wrench: Tech & tools that I use</h3>
+<h3>🚀 Current Focus</h3>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=orange&color=007ACC)
-![](https://img.shields.io/badge/Backend-Ruby_on_Rails-informational?style=for-the-badge&logo=Ruby-on-Rails&logoColor=cc0000&color=cc0000)
-![](https://img.shields.io/badge/Frontend-Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Shopify-Liquid-informational?style=for-the-badge&logo=Shopify&logoColor=green&color=green)
-![](https://img.shields.io/badge/Website-Wix-informational?style=for-the-badge&logo=Wix&logoColor=black&color=black)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNU-Bash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/Container-Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=339933)
-![](https://img.shields.io/badge/CSS-TailwindCSS-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&color=38B2AC)
-![](https://img.shields.io/badge/Mobile-Flutter-informational?style=for-the-badge&logo=Flutter&logoColor=white&color=02569B)
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+<img src="https://img.shields.io/badge/Ruby_on_Rails-SaaS_Development-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+
+<img src="https://img.shields.io/badge/AWS-Community_Leadership-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+<img src="https://img.shields.io/badge/Next.js-Full_Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/Cybersecurity-Education-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/AI-Automation-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Developer-Communities-success?style=for-the-badge">
+
+</p>
 
 <div align="center">
   <hr width="50%">
 </div>
 
-<h3>:chart_with_upwards_trend: Stats that might interest you</h3>
+<h3>🛠️ Tech & Tools</h3>
 
-In the past, I didn't focus much on making commits or contributions, but from now on, I will (better late than never, right?). Also, you know what? This is actually really cool, so here you go.
+<p align="center">
 
-<a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubemoon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+
+</p>
+
+<div align="center">
+  <hr width="50%">
+</div>
+
+<h3>🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Kozenet Pro
+
+Digital platform focused on SaaS solutions, websites, automation, educational technology, and cloud innovation
+
+</td>
+
+<td width="50%">
+
+### ☁️ AWS Student Builders
+
+Building cloud communities, workshops, events, mentorship opportunities, and learning experiences for students
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+  <hr width="50%">
+</div>
+
+
+<h3>📊 GitHub Stats</h3>
+
+<div align="center">
+
+<a href="https://github.com/rubemoon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubemoon&layout=compact&theme=github_dark"/>
 </a>
-<a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rubemoon&hide=contribs,prs&show_icons=true&count_private=true" />
+
+<a href="https://github.com/rubemoon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubemoon&show_icons=true&count_private=true&theme=github_dark"/>
 </a>
+
+</div>
+
+<div align="center">
+  <hr width="50%">
+</div>
+
+<h3>🔥 Contribution Streak</h3>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rubemoon&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<div align="center">
+  <hr width="50%">
+</div>
+
+<h3>🌍 Languages</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Creole-Native-1D9BF0?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Portuguese-Advanced-009C3B?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/French-Fluent-0055A4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/English-Advanced-3C3B6E?style=for-the-badge">
+
+</p>
+
+<div align="center">
+
+<h3>💭 Philosophy</h3>
+
+<i>
+"La vraie générosité envers l’avenir consiste à tout donner au présent."
+</i>
+
+<br>
+
+<b>— Albert Camus</b>
+
+
+</div>
