@@ -134,24 +134,6 @@ Building cloud communities, workshops, events, mentorship opportunities, and lea
 </div>
 
 
-<h3>📊 GitHub Stats</h3>
-
-<div align="center">
-
-<a href="https://github.com/rubemoon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubemoon&layout=compact&theme=github_dark"/>
-</a>
-
-<a href="https://github.com/rubemoon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubemoon&show_icons=true&count_private=true&theme=github_dark"/>
-</a>
-
-</div>
-
-<div align="center">
-  <hr width="50%">
-</div>
-
 <h3>🔥 Contribution Streak</h3>
 
 <p align="center">
